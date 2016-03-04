@@ -1,2 +1,4 @@
 # hello-world
-Say Hello
+Say Goodbye
+
+Eric is getting the hang of this githubness
